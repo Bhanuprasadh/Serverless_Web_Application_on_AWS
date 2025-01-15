@@ -24,4 +24,3 @@ You will have hands-on experience building a serverless application using AWS La
 Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
 
-# Serverless_Web_Application_on_AWS
